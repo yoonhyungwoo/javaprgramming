@@ -1,4 +1,4 @@
-// 아이템 주
+// 아이템 주tk
 public class Item{
 
     private String name;
