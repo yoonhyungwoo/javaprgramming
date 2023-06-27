@@ -1,4 +1,4 @@
-// 아이템
+// 아이템 주석
 public class Item{
 
     private String name;
