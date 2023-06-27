@@ -1,3 +1,4 @@
+// 아이템
 public class Item{
 
     private String name;
